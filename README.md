@@ -237,3 +237,4 @@ public class TwoSum {
 [stream](https://www.runoob.com/java/java8-streams.html)
 [SQL50](https://www.itread01.com/content/1544769369.html)
 [Java stream](https://mycollegenotebook.medium.com/java-stream-%E7%AD%86%E8%A8%98-%E4%B8%8A-34df0e282fc8)
+[java8 List集合的排序，求和，取最大值，按照条件过滤](https://blog.51cto.com/u_15127525/3921322)
