@@ -229,3 +229,9 @@ public class TwoSum {
 }
 
 ```
+
+## Reference
+[time](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/313272/)
+[twosum](https://woooooooooord.wordpress.com/2016/11/14/leetcode-1-two-sum/)
+[sqlnull](https://blog.xuite.net/tolarku/blog/27569185)
+[stream](https://www.runoob.com/java/java8-streams.html)
